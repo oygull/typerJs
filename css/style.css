@@ -9,5 +9,22 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: rgb(133, 128, 128);
+  background-color: rgb(243, 135, 135);
 }
+.content{
+  width: 1000px;
+  height: 400px;
+  margin: 150px auto;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+input{
+  margin: 20px;
+  font-size: 40px;
+  height: 60px;
+  outline: none;
+  border: none;
+  width: 800px;
+}
+
